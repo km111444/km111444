@@ -2,7 +2,7 @@
 
 ---
 
-- I'm a Full-Stack Developer based in Tokyo.
+- I'm a Web Developer based in Tokyo.
 - I daily use... Ruby, Python, HTML, JavaScript, CSS, Rails, Git, RESTful APIs, SQL
 - I'm currently learning... AWS, Docker, React
 - I studied at Le Wagon Tokyo(Winter2022, batch795).
