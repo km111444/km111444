@@ -2,8 +2,7 @@
 
 ---
 
-- I'm a Web Developer based in Tokyo.
-- I daily use... Ruby, Python, HTML, JavaScript, CSS, Rails, Git, RESTful APIs, SQL
+- I daily use... Ruby on Rails, Python, HTML, JavaScript, CSS, Git, RESTful APIs, SQL
 - I'm currently learning... AWS, Docker, React
 - I studied at Le Wagon Tokyo(1.2022 - 3.2022, batch795).
 
